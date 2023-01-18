@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.tutorial_vr-20979098.unrealeditor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "D:/School/2023 - Winter (U of M)/EECS 498 - AR and VR/Tutorial Assignments/Tutorial_VR/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "Tutorial_VR-20979098 [UE Editor]"
+				}
+			}
+		}
+	]
+}
